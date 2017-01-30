@@ -8,12 +8,12 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 
 Release Date: Jan 29, 2017
 
--	Changelog.md
--	controllers
+-	Changelog.md 	(Mate)
+-	controllers 	(Mate)
 	-	Welcome
 	-	About
 	-	Gallery
--	views
+-	views 			(Mate)
 	-	welcome
 	-	about
 	-	gallery
