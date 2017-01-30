@@ -4,9 +4,52 @@ Team membership:  Matt Rosenlund (Captain) & Tom Nam (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+$$
+
+## *Version 1.2*
+
+Release Date: Jan 29, 2017
+
+## Updated Components
+
+-	Changelog.md	(Mate)
+-	controllers		(Mate)
+	-	Welcome
+	-	About
+	-	Gallery
+-	views			(Mate)
+	-	template
+	-	welcome
+	-	about
+	-	gallery
+-	models			(Mate)
+	-	Images
+-	config			(Mate)
+	-	autoload
+	-	database
+
+## *Version 1.1*
+
+Release Date: Jan 29, 2017
+
+## Updated Components
+
+-	Changelog.md	(Captain)
+-	controllers		(Captain)
+	-	Welcome
+	-	About
+	-	Gallery
+-	views			(Captain)
+	-	template
+	-	welcome
+	-	about
+	-	gallery
+
 ## *Version 1.0*
 
 Release Date: Jan 29, 2017
+
+## Updated Components
 
 -	Changelog.md 	(Mate)
 -	controllers 	(Mate)
